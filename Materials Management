@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materials Management at IPCL</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your existing stylesheet -->
+</head>
+<body>
+    <header>
+        <h1>Materials Management at IPCL</h1>
+        <nav>
+            <a href="previous-page.html">Previous Page</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Content extracted from the PDF goes here...</p>
+        </section>
+        <section>
+            <h2>Key Concepts</h2>
+            <p>More extracted content...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Your Website Name</p>
+    </footer>
+</body>
+</html>
